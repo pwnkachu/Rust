@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "Errors"
+version = "0.1.0"
+
+[[package]]
 name = "cfg-if"
 version = "1.0.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -31,6 +35,18 @@ name = "libc"
 version = "0.2.189"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "3eaf3ede3fee6db1a4c2ee091bf8a8b4dccdc6d17f656fb07896ee72867612f2"
+
+[[package]]
+name = "lifetimes"
+version = "0.1.0"
+
+[[package]]
+name = "matchExample"
+version = "0.1.0"
+
+[[package]]
+name = "methods"
+version = "0.1.0"
 
 [[package]]
 name = "ppv-lite86"
@@ -90,6 +106,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "reborrow"
+version = "0.1.0"
+
+[[package]]
+name = "rectangles"
+version = "0.1.0"
+
+[[package]]
+name = "slice"
+version = "0.1.0"
+
+[[package]]
 name = "syn"
 version = "2.0.119"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -99,6 +127,10 @@ dependencies = [
  "quote",
  "unicode-ident",
 ]
+
+[[package]]
+name = "traits"
+version = "0.1.0"
 
 [[package]]
 name = "unicode-ident"

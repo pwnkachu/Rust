@@ -6,4 +6,7 @@ members = [
     "reborrow",
     "rectangles",
     "slice",
+    "Errors",
+    "matchExample", 
+    "traits", "lifetimes",
 ]
