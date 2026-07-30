@@ -8,5 +8,5 @@ members = [
     "slice",
     "Errors",
     "matchExample", 
-    "traits", "lifetimes", "rsgrep", "closures",
+    "traits", "lifetimes", "rsgrep", "closures", "smart_pointer", "threads",
 ]
