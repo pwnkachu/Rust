@@ -49,7 +49,6 @@ fn main() {
         n = n + 1;
 
         thread::spawn(move || {
-
             n = n + 1;
 
         })

@@ -1,0 +1,8 @@
+[package]
+name = "multithread_webserver"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+fmt = "0.1.0"
+scraper = "0.27.0"

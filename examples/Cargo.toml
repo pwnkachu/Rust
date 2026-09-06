@@ -8,5 +8,5 @@ members = [
     "slice",
     "Errors",
     "matchExample", 
-    "traits", "lifetimes", "rsgrep", "closures", "smart_pointer", "threads",
+    "traits", "lifetimes", "rsgrep", "closures", "smart_pointer", "threads", "message_passing", "mutex", "asynchronous_programming", "multithread_webserver",
 ]
